@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-vue-issue953",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .vue "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ota-meshi/eslint-plugin-vue-issue953.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ota-meshi/eslint-plugin-vue-issue953/issues"
+  },
+  "homepage": "https://github.com/ota-meshi/eslint-plugin-vue-issue953#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.11.1",
+    "eslint-plugin-cypress": "^2.6.1",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
